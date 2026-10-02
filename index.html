@@ -127,10 +127,8 @@
                             </div>
                         </div>
                         <div class="text-white">
-                            <div class="flex justify-between items-start mb-2">
-                                <h3 class="text-2xl font-bold">Ikan Mujair Marinasi</h3>
-                                <span class="text-2xl font-extrabold text-brand-gold">Rp 15.000</span>
-                            </div>
+                            <div class="flex justify-between items-start mb-2">Ikan Mujair Nila Besar
+                                Rp 10.000</div>
                             <p class="text-slate-300 text-sm mb-4">Ikan mujair pilihan bermutu tinggi, dibersihkan higienis, dan dimarinasi dengan bumbu rempah alami yang gurih hingga ke tulang.</p>
                             <a href="https://wa.me/6281235550636?text=Halo%20Kacongfish,%20saya%20mau%20pesan%20Ikan%20Mujair%20Marinasi%20(Rp15.000)" target="_blank" class="w-full py-3 bg-brand-blue hover:bg-brand-dark text-white font-bold rounded-xl flex items-center justify-center transition-colors">
                                 <i class="fa-brands fa-whatsapp mr-2 text-lg"></i> Beli Sekarang
@@ -216,9 +214,7 @@
                                 
                                 
                             </div>
-                            <a href="https://wa.me/6281235550636?text=Halo%20Kacongfish,%20saya%20mau%20pesan%20Ikan%20Mujair%20Marinasi%20(Rp15.000)" target="_blank" class="w-full py-3 bg-brand-orange hover:bg-orange-600 text-white font-bold rounded-xl flex items-center justify-center transition-all shadow-md shadow-orange-500/20">
-                                <i class="fa-brands fa-whatsapp text-lg mr-2"></i> Pesan Sekarang
-                            </a>
+                            <a href="https://wa.me/6281235550636?text=Halo%20Kacongfish,%20saya%20mau%20pesan%20Ikan%20Mujair%20Marinasi%20Besar%20(Rp10.000)" target="_blank" class="w-full py-3 bg-brand-orange hover:bg-orange-600 text-white font-bold rounded-xl flex items-center justify-center transition-all shadow-md shadow-orange-500/20">Pesan Sekarang</a>
                         </div>
                     </div>
                 </div>
@@ -239,9 +235,7 @@
                                 <span class="text-2xl font-black text-brand-blue">Rp 10.000</span>
                             </div><div class="flex items-baseline justify-between mb-4">Harga Porsi Kecil :
                                 Rp 8.000</div>
-                            <a href="https://wa.me/6281235550636?text=Halo%20Kacongfish,%20saya%20mau%20pesan%20Ikan%20Nila%20Marinasi%20(Rp18.000)" target="_blank" class="w-full py-3 bg-slate-800 hover:bg-slate-900 text-white font-bold rounded-xl flex items-center justify-center transition-all">
-                                <i class="fa-brands fa-whatsapp text-lg mr-2"></i> Pesan Sekarang
-                            </a>
+                            <a href="https://wa.me/6281235550636?text=Halo%20Kacongfish,%20saya%20mau%20pesan%20Ikan%20Nila%20Marinasi%20Besar%20(Rp.10.000)" target="_blank" class="w-full py-3 bg-slate-800 hover:bg-slate-900 text-white font-bold rounded-xl flex items-center justify-center transition-all">Pesan Sekarang</a>
                         </div>
                     </div>
                 </div>
@@ -264,9 +258,7 @@
                                 <span class="text-xs text-slate-400 font-medium">Harga Porsi Kecil :</span>
                                 <span class="text-2xl font-black text-brand-blue">Rp 10.000 ( Dapat 3 )</span>
                             </div>
-                            <a href="https://wa.me/6281235550636?text=Halo%20Kacongfish,%20saya%20mau%20pesan%20Ikan%20Lele%20Marinasi%20(Rp14.000)" target="_blank" class="w-full py-3 bg-slate-800 hover:bg-slate-900 text-white font-bold rounded-xl flex items-center justify-center transition-all">
-                                <i class="fa-brands fa-whatsapp text-lg mr-2"></i> Pesan Sekarang
-                            </a>
+                            <a href="https://wa.me/6281235550636?text=Halo%20Kacongfish,%20saya%20mau%20pesan%20Ikan%20Lele%20Marinasi%20Besar%20(Rp7.000)" target="_blank" class="w-full py-3 bg-slate-800 hover:bg-slate-900 text-white font-bold rounded-xl flex items-center justify-center transition-all">Pesan Sekarang</a>
                         </div>
                     </div>
                 </div>
@@ -302,9 +294,7 @@
                 <div class="lg:col-span-5">
                     
                     <h2 class="text-3xl sm:text-4xl font-extrabold text-slate-900 mb-6">Mampir ke Dapur Kacongfish</h2>
-                    <p class="text-slate-600 mb-8 leading-relaxed">
-                        Kami melayani pemesanan langsung maupun pengiriman area <strong class="text-slate-900">Kedungkandang dan seluruh Kota Malang</strong>. Dapatkan ikan segar bermarinasi favorit Anda setiap hari.
-                    </p>
+                    
 
                     <div class="space-y-6">
                         <div class="flex items-start space-x-4">
@@ -346,10 +336,7 @@
                 <!-- Google Maps Embed Container -->
                 <div class="lg:col-span-7">
                     <div class="bg-slate-100 p-3 rounded-3xl border border-slate-200 shadow-xl">
-                        <div class="w-full h-80 sm:h-96 rounded-2xl overflow-hidden relative">
-                            <iframe title="Lokasi Kacongfish Kedungkandang Malang" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.082729350438!2d112.6375!3d-7.99!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7882d2a4505101%3A0x4027a76e352e8d0!2sKedungkandang%2C%20Kec.%20Kedungkandang%2C%20Kota%20Malang%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1700000000000!5m2!1sid!2sid" class="w-full h-full border-0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-                            </iframe>
-                        </div>
+                        
                     </div>
                 </div>
 
