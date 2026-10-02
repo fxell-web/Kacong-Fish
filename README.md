@@ -1,4 +1,3 @@
-[index.html (5).html](https://github.com/user-attachments/files/32961228/index.html.5.html)
 <!doctype html>
 <html lang="id" class="scroll-smooth"><head>
     <meta charset="UTF-8">
