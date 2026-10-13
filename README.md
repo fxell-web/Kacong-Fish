@@ -104,8 +104,8 @@
                         Nikmati kelezatan <strong class="text-white">Kacongfish</strong>, ikan marinasi berkualitas siap goreng/masak tanpa repot membersihkan &amp; meracik bumbu. Tinggal buka, goreng, dan sajikan!
                     </p>
                     <div class="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
-                        <a href="https://wa.me/6281235550636?text=Halo%20Kacongfish,%20saya%20mau%20pesan%20Ikan%20Mujair%20Marinasi%20Rp10.000" target="_blank" class="w-full sm:w-auto inline-flex items-center justify-center px-8 py-4 rounded-2xl text-lg font-bold text-white bg-gradient-to-r from-brand-orange to-amber-500 hover:from-orange-600 hover:to-amber-600 shadow-xl shadow-orange-500/25 transition-all transform hover:-translate-y-1">
-                            <i class="fa-brands fa-whatsapp text-2xl mr-3"></i> Pesan Mujair Rp15.000
+                        <a href="https://wa.me/6281235550636?text=Halo%20Kacongfish,%20saya%20mau%20pesan%20Ikan%20Nila%20Besar%20Rp10.000" target="_blank" class="w-full sm:w-auto inline-flex items-center justify-center px-8 py-4 rounded-2xl text-lg font-bold text-white bg-gradient-to-r from-brand-orange to-amber-500 hover:from-orange-600 hover:to-amber-600 shadow-xl shadow-orange-500/25 transition-all transform hover:-translate-y-1">
+                            <i class="fa-brands fa-whatsapp text-2xl mr-3"></i> Pesan Mujair Rp10.000
                         </a>
                         <a href="#menu" class="w-full sm:w-auto inline-flex items-center justify-center px-8 py-4 rounded-2xl text-lg font-bold text-white bg-white/10 hover:bg-white/20 border border-white/20 backdrop-blur-md transition-all">
                             Lihat Menu Lainnya
@@ -127,10 +127,10 @@
                             </div>
                         </div>
                         <div class="text-white">
-                            <div class="flex justify-between items-start mb-2">Ikan Mujair Nila Besar
+                            <div class="flex justify-between items-start mb-2">Ikan Nila Besar
                                 Rp 10.000</div>
                             <p class="text-slate-300 text-sm mb-4">Ikan mujair pilihan bermutu tinggi, dibersihkan higienis, dan dimarinasi dengan bumbu rempah alami yang gurih hingga ke tulang.</p>
-                            <a href="https://wa.me/6281235550636?text=Halo%20Kacongfish,%20saya%20mau%20pesan%20Ikan%20Mujair%20Marinasi%20(Rp10.000)" target="_blank" class="w-full py-3 bg-brand-blue hover:bg-brand-dark text-white font-bold rounded-xl flex items-center justify-center transition-colors">
+                            <a href="https://wa.me/6281235550636?text=Halo%20Kacongfish,%20saya%20mau%20pesan%20Ikan%20Nila%20Besar%20(Rp10.000)" target="_blank" class="w-full py-3 bg-brand-blue hover:bg-brand-dark text-white font-bold rounded-xl flex items-center justify-center transition-colors">
                                 <i class="fa-brands fa-whatsapp mr-2 text-lg"></i> Beli Sekarang
                             </a>
                         </div>
